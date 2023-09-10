@@ -1,5 +1,8 @@
 {
   "name": "yarn_dir",
   "packageManager": "yarn@3.6.3",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
